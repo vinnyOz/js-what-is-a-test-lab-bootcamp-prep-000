@@ -2,7 +2,7 @@
 var name = "Susan";
 var height = 20;
 var message ='is ${height} inches tall';
-var message =' ${Susan} is ${height} inches tall';
+var message =' ${Susan} is ${20} inches tall';
 
 module.exports = {name, height, message};
 
